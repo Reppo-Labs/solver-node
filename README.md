@@ -135,7 +135,7 @@ To run the Reppo Solver Node, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/reppo-solver-node.git
+   git clone https://github.com/Reppo-Labs/solver-node
    cd reppo-solver-node
    ```
 
